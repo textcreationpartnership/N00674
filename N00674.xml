@@ -116,9 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="propositions">
-            <pb facs="tcp:000819_0000_0FAB3FDE3577E590"/>
+            <pb facs="unknown:000819_0000_0FAB3FDE3577E590"/>
             <pb n="1"
-                facs="tcp:000819_0001_0FAB3FDEEB0532E8"
+                facs="unknown:000819_0001_0FAB3FDEEB0532E8"
                 rendition="simple:additions"/>
             <head>Propositions made by the Five Nations of <hi>Indians, viz.</hi> The <hi>Mohaques, Oneydes, Onnondages, Cayouges</hi> &amp; <hi>Sinnekes,</hi> to his Excellency <hi>Richard</hi> Earl of <hi>Bellomont,</hi> Capt. General and Governour in chief his Majesties Province of <hi>New-York, &amp;c.</hi> in <hi>Albany,</hi> the 20th of <hi>July, Anno Dom.</hi> 1698.</head>
             <list>
@@ -194,7 +194,7 @@
                   <desc>•</desc>
                </gap>loud our gladness. We give nine Beaver Skins.</p>
             <p>
-               <pb n="2" facs="tcp:000819_0002_0FAB3FDFA743C9D0"/>My Lords Answer to the Congratulatory Propositions of the Indians.</p>
+               <pb n="2" facs="unknown:000819_0002_0FAB3FDFA743C9D0"/>My Lords Answer to the Congratulatory Propositions of the Indians.</p>
             <p>I thank you for your chearful Congratulations: My Voyage was, as yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> have observ'd, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -271,7 +271,7 @@
             </closer>
          </div>
          <div type="proposals">
-            <pb n="3" facs="tcp:000819_0003_0FAB3FE066FB5EC0"/>
+            <pb n="3" facs="unknown:000819_0003_0FAB3FE066FB5EC0"/>
             <head>Proposals made by Coll. <hi>Peter Schuyler, James Graham,</hi> 
                <abbr>Esq</abbr> his Majesties Attorney General, Coll. <hi>Romer,</hi> &amp; Major Derick Wessells, Mayor of <hi>Albany,</hi> Appoint<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -316,7 +316,7 @@
                </gap>e <hi>Mohaques</hi> Nation a great m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sunderstanding arisen con<g ref="char:EOLhyphen"/>cerning a Writing that hath been given by some of our Brethren about our <hi>Mohaques</hi> Land, a matter of such Consequence that whatever affects us will affect the whole five Nations, and therefore we desire that the said Writing may be abolished and burnt, and that we who are the right owners may be
-<pb n="4" facs="tcp:000819_0004_0FAB3FE126ABDF30"/>
+<pb n="4" facs="unknown:000819_0004_0FAB3FE126ABDF30"/>
 masters of our own Land, especially since we are in one Covenant Chain, and ought not to wrong one another; We therefore most Instantly renew our request that the said Paper or Writing which hath created such a mistake, may be burnt. Do give two Bevers.</p>
             <p>
                <hi>Sadeganacktie,</hi> Sachim of <hi>Onnondage,</hi> rose up, and said, <hi>Brother Corlaer,</hi>
@@ -355,7 +355,7 @@ masters of our own Land, especially since we are in one Covenant Chain, and ough
                <hi>Brother Corlaer,</hi> All our Confidence is and we are well assured that our great Brother will take our whole House under his Protection, in which Con<g ref="char:EOLhyphen"/>fidence we have great joy, the like having been our Comfort in former times, and Coll. <hi>Peter Schuyler</hi> hath been always the Instrument that hath been im<g ref="char:EOLhyphen"/>ployed for the assuring to us this Comfort. We cannot <gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>get that our Neigh<g ref="char:EOLhyphen"/>bours of <hi>Virginia, Maryland, New England,</hi> and all the rest of our great Kings Subjects upon this main Continent of <hi>America,</hi> have often desired, and have been accordingly Linked into this Covenant Chain, which remains no longer to be Iron, but is now become Silver, and now shines with a greater Lustre and brightness than ever; and now all of us sit under the shadow of that great Tree, which is full of Leaves, and whose Roots and Branches extend not only to the Places and Houses where we Reside, but also unto the utmost limit of our great Kings Dominion of this Continent of <hi>America,</hi> which Tree is
-<pb n="5" facs="tcp:000819_0005_0FAB3FE7700628B0"/>
+<pb n="5" facs="unknown:000819_0005_0FAB3FE7700628B0"/>
 now become a Tree of Welfare and Peace, and our living under it for the time to come will make us Enjoy more ease, and live with greater advantage then we have done for several years past, and we therefore in the hopes of this enjoyment, Renew our old Covenant Chain under this Tree of Welfare, whilst our great Brother has the care of this Government. Then turning to the rest of the Indians, he said,</p>
             <p>
                <hi>Brethren,</hi> Let all of us here present, be Witnesses, and keep this Covenant Chain firm and bright.</p>
@@ -428,7 +428,7 @@ now become a Tree of Welfare and Peace, and our living under it for the time to 
             </closer>
          </div>
          <div type="answer">
-            <pb n="6" facs="tcp:000819_0006_0FAB3FE7F2BAA220"/>
+            <pb n="6" facs="unknown:000819_0006_0FAB3FE7F2BAA220"/>
             <head>His Excellency <hi>Richard</hi> Earl of <hi>Bellomont</hi> Capt. General and Governour in chief of his Majesties Province of <hi>New-York, &amp;c.</hi> Answer to the Propositions of the Five Nations, the <hi>Mohaque, Oneydes, Onnondages, Cayouges</hi> and <hi>Sennekes,</hi> in <hi>Albany</hi> the <hi>23</hi>d day of <hi>July, 1698.</hi>
             </head>
             <opener>
@@ -532,7 +532,7 @@ now become a Tree of Welfare and Peace, and our living under it for the time to 
             <p>I am very glad that you so well remember the Original of our Covenant Chain, and that you are sensible of the advantages you have received by the firm continuance of it, and of your candid Resolution never to break or violate the same. I am also extreamly pleased with your request in desi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ing the Pro<g ref="char:EOLhyphen"/>tection of my great Master, the King of <hi>England, &amp;c.</hi> and that I will take you particularly under my Charge. It has always been the care of the Crown of <hi>England</hi> to protect the Brethren, ever since they first entered into the Covenant Chain, and as an Instance thereof did engage into the late great &amp; chargeable
-<pb n="7" facs="tcp:000819_0007_0FAB3FE8A8385F18"/>
+<pb n="7" facs="unknown:000819_0007_0FAB3FE8A8385F18"/>
 War for the security of the Brethren, and whilst his Government is under my Adm<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -627,7 +627,7 @@ War for the security of the Brethren, and whilst his Government is under my Adm<
                   <desc>•</desc>
                </gap>s stroad waters Cloth, at
 <pb n="8"
-                   facs="tcp:000819_0008_0FAB3FE968F45448"
+                   facs="unknown:000819_0008_0FAB3FE968F45448"
                    rendition="simple:additions"/>
 12 <hi>l.</hi> 10 <hi>s.</hi> per piece, 150 Shirts, 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -742,7 +742,7 @@ War for the security of the Brethren, and whilst his Government is under my Adm<
                <hi>Father,</hi> It is long since we and the <hi>Christians</hi> were united into such a Chain of Friendship that we did live peaceably under the Tree of welfare, planted at <hi>Skachkok,</hi> but that peaceable living was interrupted about nine years ago, by a War that broke out by the <hi>French,</hi> but n<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>w that War being ended, we intend to return again, and live under the Branches of that pleasant Tree of Peace, that abounds so much with Leaves, as that the Scorching heat of the Sun
-<pb n="9" facs="tcp:000819_0009_0FAB3FEA27813860"/>
+<pb n="9" facs="unknown:000819_0009_0FAB3FEA27813860"/>
 cannot pierce it; and we not only enjoy this Peace alone, but the s<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>e fire that heats and warms the <hi>Mohaques,</hi> and the other Nations of Indians<g ref="char:punc">▪</g> 
@@ -790,7 +790,7 @@ cannot pierce it; and we not only enjoy this Peace alone, but the s<gap reason="
             </closer>
          </div>
          <div type="propositions">
-            <pb n="10" facs="tcp:000819_0010_0FAB3FEAE6E35E38"/>
+            <pb n="10" facs="unknown:000819_0010_0FAB3FEAE6E35E38"/>
             <head>Proposi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ions made by the <hi>Mohaques, Oneydes, Onnondages, Cajouges</hi> &amp; <hi>Sinnekes Indians,</hi> To his Excellency <hi>Richard</hi> Earl of <hi>Bellomont</hi> Capt. General and Go<g ref="char:EOLhyphen"/>vernour in Chief of his Majesties Provi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -889,7 +889,7 @@ cannot pierce it; and we not only enjoy this Peace alone, but the s<gap reason="
                </gap>n'd home unto our Coun<g ref="char:EOLhyphen"/>try, and made great preparation for that design, having gathered ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Young men fit for the War together, provided one hundred Canows to carry our Army
-<pb n="11" facs="tcp:000819_0011_0FAB3FEBA6FA2A28"/>
+<pb n="11" facs="unknown:000819_0011_0FAB3FEBA6FA2A28"/>
 over the Lake, and gave our Brother Coll. <hi>Fletcher,</hi> named b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> us <hi>Cajenquirag<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1024,7 +1024,7 @@ over the Lake, and gave our Brother Coll. <hi>Fletcher,</hi> named b<gap reason=
                </gap>r sent an Express into our Castles, and gave us notice, that the great K<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ng of
-<pb n="12" facs="tcp:000819_0012_0FAB3FEC67035DA0"/>
+<pb n="12" facs="unknown:000819_0012_0FAB3FEC67035DA0"/>
                <hi>England</hi> had concluded a Peace with the French King, and required us to for<g ref="char:EOLhyphen"/>bear all acts of Hostility against the late Enemy which accordingly we obeyed, never imagining that the Indian Subjects of our great King should be obliged by those Articles of Peace to bury their Hatcher, and cease from doing the Enemy an<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> more harm, when at the same time the Indian Subjects of the French King should be permitted to hurt us: We always thought that the Hrticles of Peace made between our great King and the French King had included all the Subjects of each of their Dominions; and if this Construction be true, we had no need to be so watchful in time of Peace as in War, and therefore the late Mis<g ref="char:EOLhyphen"/>chief done us is not to be attributed to our neglect or unwatchfulness, but un<g ref="char:EOLhyphen"/>to the Treachery and Unfaithfulness of the French, who have not so justly observed the Articles of Peace as we have done.</p>
@@ -1069,7 +1069,7 @@ over the Lake, and gave our Brother Coll. <hi>Fletcher,</hi> named b<gap reason=
                <salute>Children,</salute>
             </opener>
             <p>I Am well pleased with your dutiful Salutation, and that you have behav'd your selves so well in the late War, and am truly grieved that the good
-<pb n="13" facs="tcp:000819_0013_0FAB3FED27A13F98"/>
+<pb n="13" facs="unknown:000819_0013_0FAB3FED27A13F98"/>
 Service you have done therein should have been attended with so great a loss of my Child<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>en, but since I perceive your Resolutions are to re-settle your old place of residence <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1123,7 +1123,7 @@ Service you have done therein should have been attended with so great a loss of 
             </closer>
          </div>
          <div type="reply">
-            <pb n="14" facs="tcp:000819_0014_0FAB3FEDE86DCAE0"/>
+            <pb n="14" facs="unknown:000819_0014_0FAB3FEDE86DCAE0"/>
             <head>His Excellency <hi>Richard</hi> Earl of <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>llomont,</hi> Capt. General and Governour in chief of his Majesties Province of <hi>New-York,</hi> his Reply to the Propositions of the <hi>Mo<g ref="char:EOLhyphen"/>haques, Oneydes, Onnondages, Cayouges</hi> and <hi>Sinnekes,</hi> in <hi>Albany</hi> the <hi>27</hi> Day of <hi>July, 1698.</hi> Present his Excellency, with the Gentlemen above-named.</head>
@@ -1272,7 +1272,7 @@ Service you have done therein should have been attended with so great a loss of 
                </gap>ppose to belong to the <hi>Skachkook</hi> Nation of Indians.</head>
             <p>WHereupon his Excellency sent for the <hi>Skachkook Indians,</hi> to enquire of them about the said Murder.</p>
             <p>
-               <pb n="15" facs="tcp:000819_0015_0FAB3FEEA8FD8BA8"/>The <hi>Skachkook Indians</hi> being sent for, appeared. Then my Lord asked them as followeth, <hi>Quest</hi> Were all that belong to your Nation at <hi>Albany</hi> last week, at the time the Prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="15" facs="unknown:000819_0015_0FAB3FEEA8FD8BA8"/>The <hi>Skachkook Indians</hi> being sent for, appeared. Then my Lord asked them as followeth, <hi>Quest</hi> Were all that belong to your Nation at <hi>Albany</hi> last week, at the time the Prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sitions were made by you? <hi>Answ.</hi> All our People were at <hi>Albany</hi> when we shar'd the Presents made us, except two Men and a Boy, who went eleven days a go to <hi>Hosak</hi> to fetch Bever, but all our People were not here at the time the Propositions were made.</p>
             <p>
@@ -1343,7 +1343,7 @@ and kill a Man there, and that would make the <hi>New-England</hi> People kill u
             </closer>
          </div>
          <div type="address">
-            <pb n="16" facs="tcp:000819_0016_0FAB3FEF670810C0"/>
+            <pb n="16" facs="unknown:000819_0016_0FAB3FEF670810C0"/>
             <head>To his Excellency <hi>Richard</hi> Earl of <hi>Bellomont</hi> Captain General and Governour in chief of his Majesties Province of <hi>New-York,</hi> &amp;c. The humble Address of the Mayor, Recorder, Aldermen and Assistants of the City of <hi>Albany,</hi> convened in Common Council.</head>
             <opener>
                <salute>May it please your Lordship;</salute>
@@ -1460,7 +1460,7 @@ and kill a Man there, and that would make the <hi>New-England</hi> People kill u
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n<g ref="char:EOLhyphen"/>dians
-<pb n="17" facs="tcp:000819_0017_0FAB3FF0F4A76A78"/>
+<pb n="17" facs="unknown:000819_0017_0FAB3FF0F4A76A78"/>
                <hi>Negotiated in the presence of the Magistrate<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>, most heartily acknowledg<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1703,7 +1703,7 @@ and kill a Man there, and that would make the <hi>New-England</hi> People kill u
                </gap> great Sufferings, yet they have been twice since <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> at
-<pb n="18" facs="tcp:000819_0018_0FAB3FF1A7017D28"/>
+<pb n="18" facs="unknown:000819_0018_0FAB3FF1A7017D28"/>
 their own proper cost and charge, to re-build a Fort, in which they have lodged all the Inhabita<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ts, as well as have made Lodgments for his Majesties Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1802,7 +1802,7 @@ their own proper cost and charge, to re-build a Fort, in which they have lodged 
                   <desc>〈◊〉</desc>
                </gap> be entirely united, and of a piece, for their common security, and as bound by their Allegiance to his Majesty.</p>
             <p n="2">
-               <pb n="19" facs="tcp:000819_0019_0FAB3FF26B7899E0"/>2. You are, upon Notice and Complaint of any of the Indians, Subjects of his Ma<g ref="char:EOLhyphen"/>jesty, of any Acts of Hostility committed on them by the <hi>French</hi> or their <hi>Indians,</hi> to take and use the most effectual and speedy cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="19" facs="unknown:000819_0019_0FAB3FF26B7899E0"/>2. You are, upon Notice and Complaint of any of the Indians, Subjects of his Ma<g ref="char:EOLhyphen"/>jesty, of any Acts of Hostility committed on them by the <hi>French</hi> or their <hi>Indians,</hi> to take and use the most effectual and speedy cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>se to relieve and assist the said <hi>Indians</hi>; and if you see cause you are to send the Commanding Officer of this Garrison, for the time being, with such a Number of the Souldiers, as you shall think fit, to the assistance of the said <hi>Indians,</hi> Subjects of his Majesty, giving such Orders to the said commanding Officer, as you in your best discretion shall think proper for his Majesties Service, and the security of his Subjects; and all Officers and Souldiers in his Majesties pay are hereby ordered to obey all such Orders as they shall receive from you, from time to time, for the ends and purposes aforesaid.</p>
             <p n="3">3. You are by all fair means to encourage and cherish the <hi>Indians,</hi> Subjects of his Ma<g ref="char:EOLhyphen"/>jesty, to the end they may continue firm under the Obedience of his Majesty, and for the advantage of the Trade of this Province.</p>
@@ -1890,7 +1890,7 @@ their own proper cost and charge, to re-build a Fort, in which they have lodged 
                   </gap>e Nations at</hi> Albany, <hi>which having duely considered, my Brethren <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="20" facs="tcp:000819_0020_0FAB3FF3270D8348"/>
+                  <pb n="20" facs="unknown:000819_0020_0FAB3FF3270D8348"/>
 Council have prayed me to assure your Lordship, they are of Opin<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>on the same hath been managed by your Excellency with such Conduct, Te<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1959,7 +1959,7 @@ Council have prayed me to assure your Lordship, they are of Opin<gap reason="ill
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="21" facs="tcp:000819_0021_0FAB3FF3E8223B20"/>
+               <pb n="21" facs="unknown:000819_0021_0FAB3FF3E8223B20"/>
 bereav'd of your Sences or Drunk; you have seen how courteous and friendly those Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>lemen sent by the Government of <hi>New-York</hi> have been, and also the <hi>Mohaques</hi> in Propounding all things tending to the publick good, Peace and Tranquility of us all.</p>
@@ -2061,7 +2061,7 @@ bereav'd of your Sences or Drunk; you have seen how courteous and friendly those
                   </gap>tsore</hi> and the o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>her <hi>Indian</hi> to be called in, with the In<g ref="char:EOLhyphen"/>terpreter, and told them, That he had taken the Advice of the Council upon this Message
-<pb n="22" facs="tcp:000819_0022_0FAB3FF4A6F995B8"/>
+<pb n="22" facs="unknown:000819_0022_0FAB3FF4A6F995B8"/>
 they have brought, and that he wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> fully resolved to succour and protect them<g ref="char:punc">▪</g> 
